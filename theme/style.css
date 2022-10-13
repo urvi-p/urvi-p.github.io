@@ -2,6 +2,11 @@ html, body {
     margin: 0;
     border: 0;
     font-size: 100%;
-    background-color: #000000;
+    background-color: #b69fb9;
     color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+a {
+    color: aqua;
   }
